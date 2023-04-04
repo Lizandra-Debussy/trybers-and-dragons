@@ -31,5 +31,3 @@ export {
   pve,
   runBattles,
 };
-
-// https://docs.google.com/forms/d/e/1FAIpQLSehvh25FccnKzINq5_bFIuX-kClYFGIF5N1VCym2W8EmvFadw/formResponse

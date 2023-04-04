@@ -53,7 +53,6 @@ class Character implements Fighter {
   }
 
   get energy(): Energy {
-    // console.log();
     return { ...this._energy };
   }
 

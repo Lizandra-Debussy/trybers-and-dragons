@@ -20,7 +20,6 @@ abstract class Race {
     return instances;
   }
 
-  // maxLife: number
   abstract get maxLifePoints(): number;
 }
 
